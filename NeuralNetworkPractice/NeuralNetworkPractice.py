@@ -1,3 +1,7 @@
+
+#A basic perceptron.
+
+
 import numpy
 
 import numpy as np
