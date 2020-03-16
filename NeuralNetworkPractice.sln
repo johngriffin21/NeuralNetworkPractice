@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NeuralNetworkPractice", "NeuralNetworkPractice\NeuralNetworkPractice.pyproj", "{9F82D025-D6AF-4885-B2E4-A77B404C8F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F82D025-D6AF-4885-B2E4-A77B404C8F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F82D025-D6AF-4885-B2E4-A77B404C8F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C54C051-BFF8-41B7-A775-5896AC807DD1}
+	EndGlobalSection
+EndGlobal
